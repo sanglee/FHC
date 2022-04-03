@@ -1,0 +1,2 @@
+# FHC
+Federated Hypersphere Classifier
